@@ -1,2 +1,1 @@
-bucket = "example-terraform-onb"
-bucket2 = "example-terraform-onb-backup"
+bucket = ["example-terraform-onb", "example-terraform-onb-backup"]
