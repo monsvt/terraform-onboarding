@@ -4,7 +4,3 @@ resource "aws_s3_bucket" "buckets" {
   acl = "private"
 }
 
-provider "aws" {
-
-  region = "us-east-1"
-}
